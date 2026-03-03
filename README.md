@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm <b>أحمد ملحم</b>, Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Syria, Aleppo</b>.</p>
+<p>Welcome to my page! </br> I'm <b>أحمد ملحم</b>, Web Developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/2560px-Flag_of_Syria.svg.png" width="13"/> <b>Syria, Aleppo</b>.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -20,7 +20,7 @@
   <a href="https://wa.me/963996134963" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/whatsapp-%2320B2AA.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-<h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> Aleppo!</h3>
+<h3>Välkommen till <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/2560px-Flag_of_Syria.svg.png" width="13"/> Aleppo!</h3>
 <!-- Placeholder for future pictures -->
 
 <p align="center">This <i>README</i> file is updated periodically.</p>
